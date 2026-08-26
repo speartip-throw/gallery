@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400">
-  <!-- ANIME text -->
-  <text x="60" y="140" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="50" fill="white">ANIME</text>
-  
-  <!-- POPULAR text -->
-  <text x="56" y="275" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="165" letter-spacing="-3" fill="white">POPULAR</text>
-</svg>
